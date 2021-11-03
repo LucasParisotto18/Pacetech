@@ -5,10 +5,10 @@ s1, s2: real
 
 inicio
 
-escreval ("Informe o sal·rio atual: ")
+escreval ("Informe o sal√°rio atual: ")
 leia (s1)
-s2 := s1 * 1.3
+s2  <- s1 * 1.3
 limpatela
-escreval ("Com o acrÈscimo de 30% o sal·rio passou de:", s1, " para", s2, " reais.")
+escreval ("Com o acr√©scimo de 30% o sal√°rio passou de:", s1, " para", s2, " reais.")
 
 fimalgoritmo
